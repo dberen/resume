@@ -1,6 +1,7 @@
 # Site settings
-title: "DB New Title"
-description: "Title update for DB resume."
+
+title: "David's Resume"
+description: "A resume for dberen."
 
 # Build settings
 markdown: kramdown
